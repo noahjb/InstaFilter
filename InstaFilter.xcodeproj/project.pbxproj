@@ -23,7 +23,7 @@
 		76570EC41ED06C3F00DEBA25 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		76570EC71ED06C3F00DEBA25 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		76570EC91ED06C3F00DEBA25 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		76570ECF1ED1796F00DEBA25 /* ToDo.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = ToDo.txt; sourceTree = "<group>"; };
+		76570ECF1ED1796F00DEBA25 /* ToDo.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = ToDo.txt; path = ../ToDo.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -40,7 +40,6 @@
 		76570EB11ED06C3F00DEBA25 = {
 			isa = PBXGroup;
 			children = (
-				76570ECF1ED1796F00DEBA25 /* ToDo.txt */,
 				76570EBC1ED06C3F00DEBA25 /* InstaFilter */,
 				76570EBB1ED06C3F00DEBA25 /* Products */,
 			);
@@ -57,6 +56,7 @@
 		76570EBC1ED06C3F00DEBA25 /* InstaFilter */ = {
 			isa = PBXGroup;
 			children = (
+				76570ECF1ED1796F00DEBA25 /* ToDo.txt */,
 				76570EBD1ED06C3F00DEBA25 /* AppDelegate.swift */,
 				76570EBF1ED06C3F00DEBA25 /* ViewController.swift */,
 				76570EC11ED06C3F00DEBA25 /* Main.storyboard */,
