@@ -1,0 +1,3 @@
+If you want to try other filters, search on Google for "Core Image Filter Reference" and have a read – it will list the input keys for each of them so that you can get really fine-grained control over the filters.
+
+If you want to spend more time working on this app, you could start by making the Change Filter button change title to show the name of the current filter. If you fancy something bigger, then you should definitely investigate having separate sliders to control each of the input keys you care about. For example, one for radius and one for intensity. If you want to tackle something small, see if you can make tapping "Save" do nothing if there is no image loaded.
